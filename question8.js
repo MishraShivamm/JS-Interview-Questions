@@ -16,5 +16,6 @@ jhon.sayName.call(shivam);
 jhon.sayName();
 
 /*
-Answer of this will be Shivam Mishra . Reason for this will be that here we are using (.call) with (jhon.sayName). If we don't use .call  it'll print Jhon Deo 
+Answer of this will be Shivam Mishra . Reason for this will be that here we are using (.call) with (jhon.sayName). 
+If we don't use .call  it'll print Jhon Deo 
 */
